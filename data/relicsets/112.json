@@ -1,0 +1,42 @@
+{
+  "name": "Wastelander of Banditry Desert",
+  "icon": "/icons/relicsets/112.webp",
+  "parts": {
+    "31121": {
+      "name": "Wastelander's Breathing Mask",
+      "desc": null,
+      "story": null
+    },
+    "31122": {
+      "name": "Wastelander's Desert Terminal",
+      "desc": null,
+      "story": null
+    },
+    "31123": {
+      "name": "Wastelander's Friar Robe",
+      "desc": null,
+      "story": null
+    },
+    "31124": {
+      "name": "Wastelander's Powered Greaves",
+      "desc": null,
+      "story": null
+    }
+  },
+  "require_num": {
+    "2": {
+      "desc": "Increases Imaginary DMG by <unbreak>#1[i]%</unbreak>.",
+      "param_list": [
+        0.1
+      ]
+    },
+    "4": {
+      "desc": "When dealing DMG to debuffed enemy targets, the wearer has their CRIT Rate increased by <unbreak>#1[i]%</unbreak>. And when they deal DMG to Imprisoned enemy targets, their CRIT DMG increases by <unbreak>#2[i]%</unbreak>.",
+      "param_list": [
+        0.1,
+        0.2
+      ]
+    }
+  },
+  "sourceIcon": "SpriteOutput/ItemIcon/71011.png"
+}

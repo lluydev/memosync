@@ -1,0 +1,27 @@
+{
+  "name": "Celestial Differentiator",
+  "icon": "/icons/relicsets/305.webp",
+  "parts": {
+    "33055": {
+      "name": "Planet Screwllum's Mechanical Sun",
+      "desc": null,
+      "story": null
+    },
+    "33056": {
+      "name": "Planet Screwllum's Ring System",
+      "desc": null,
+      "story": null
+    }
+  },
+  "require_num": {
+    "2": {
+      "desc": "Increases the wearer's CRIT DMG by <unbreak>#1[i]%</unbreak>. When the wearer's current CRIT DMG reaches <unbreak>#2[i]%</unbreak> or higher, after entering battle, the wearer's CRIT Rate increases by <unbreak>#3[i]%</unbreak> until the end of their first attack.",
+      "param_list": [
+        0.16,
+        1.2,
+        0.6
+      ]
+    }
+  },
+  "sourceIcon": "SpriteOutput/ItemIcon/71016.png"
+}

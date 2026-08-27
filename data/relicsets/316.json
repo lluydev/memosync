@@ -1,0 +1,27 @@
+{
+  "name": "Forge of the Kalpagni Lantern",
+  "icon": "/icons/relicsets/316.webp",
+  "parts": {
+    "33165": {
+      "name": "Forge's Lotus Lantern Wick",
+      "desc": null,
+      "story": null
+    },
+    "33166": {
+      "name": "Forge's Heavenly Flamewheel Silk",
+      "desc": null,
+      "story": null
+    }
+  },
+  "require_num": {
+    "2": {
+      "desc": "Increases the wearer's SPD by <unbreak>#1[i]%</unbreak>. When the wearer hits an enemy target that has Fire Weakness, the wearer's Break Effect increases by <unbreak>#2[i]%</unbreak>, lasting for <unbreak>#3[i]</unbreak> turn(s).",
+      "param_list": [
+        0.06,
+        0.4,
+        1
+      ]
+    }
+  },
+  "sourceIcon": "SpriteOutput/ItemIcon/71035.png"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "World-Remaking Deliverer",
+  "icon": "/icons/relicsets/127.webp",
+  "parts": {
+    "31271": {
+      "name": "Deliverer's Hood",
+      "desc": null,
+      "story": null
+    },
+    "31272": {
+      "name": "Deliverer's Sword Gauntlet",
+      "desc": null,
+      "story": null
+    },
+    "31273": {
+      "name": "Deliverer's Robe of Legacy",
+      "desc": null,
+      "story": null
+    },
+    "31274": {
+      "name": "Deliverer's Boots of Pioneering",
+      "desc": null,
+      "story": null
+    }
+  },
+  "require_num": {
+    "2": {
+      "desc": "Increases CRIT Rate by <unbreak>#1[i]%</unbreak>.",
+      "param_list": [
+        0.08
+      ]
+    },
+    "4": {
+      "desc": "After the wearer uses Basic ATK or Skill, if the wearer's memosprite is on the field, increases Max HP of the wearer and their memosprite by <unbreak>#1[i]%</unbreak>, and increases all allies' DMG dealt by <unbreak>#2[i]%</unbreak>, lasting until after the wearer's next use of Basic ATK or Skill.",
+      "param_list": [
+        0.24,
+        0.15
+      ]
+    }
+  },
+  "sourceIcon": "SpriteOutput/ItemIcon/71048.png"
+}
