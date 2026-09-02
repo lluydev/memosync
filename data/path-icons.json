@@ -1,0 +1,47 @@
+[
+  {
+    "id": "Preservation",
+    "baseType": "knight",
+    "iconUrl": "/icons/paths/knight.webp"
+  },
+  {
+    "id": "The Hunt",
+    "baseType": "rogue",
+    "iconUrl": "/icons/paths/rogue.webp"
+  },
+  {
+    "id": "Erudition",
+    "baseType": "mage",
+    "iconUrl": "/icons/paths/mage.webp"
+  },
+  {
+    "id": "Nihility",
+    "baseType": "warlock",
+    "iconUrl": "/icons/paths/warlock.webp"
+  },
+  {
+    "id": "Destruction",
+    "baseType": "warrior",
+    "iconUrl": "/icons/paths/warrior.webp"
+  },
+  {
+    "id": "Abundance",
+    "baseType": "priest",
+    "iconUrl": "/icons/paths/priest.webp"
+  },
+  {
+    "id": "Harmony",
+    "baseType": "shaman",
+    "iconUrl": "/icons/paths/shaman.webp"
+  },
+  {
+    "id": "Remembrance",
+    "baseType": "memory",
+    "iconUrl": "/icons/paths/memory.webp"
+  },
+  {
+    "id": "Elation",
+    "baseType": "elation",
+    "iconUrl": "/icons/paths/elation.webp"
+  }
+]

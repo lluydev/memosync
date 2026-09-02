@@ -1077,6 +1077,83 @@
     "etag": "\"6a1e6e4e-167a6\"",
     "lastModified": "Tue, 02 Jun 2026 05:46:54 GMT"
   },
+  "elements/Fire": {
+    "key": "elements/Fire",
+    "kind": "elements",
+    "id": "Fire",
+    "filename": "fire.webp",
+    "localUrl": "/icons/elements/fire.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/element/fire.webp",
+    "contentLength": "744",
+    "etag": "\"6a1e6e4e-2e8\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:54 GMT"
+  },
+  "elements/Ice": {
+    "key": "elements/Ice",
+    "kind": "elements",
+    "id": "Ice",
+    "filename": "ice.webp",
+    "localUrl": "/icons/elements/ice.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/element/ice.webp",
+    "contentLength": "918",
+    "etag": "\"6a1e6e4e-396\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:54 GMT"
+  },
+  "elements/Imaginary": {
+    "key": "elements/Imaginary",
+    "kind": "elements",
+    "id": "Imaginary",
+    "filename": "imaginary.webp",
+    "localUrl": "/icons/elements/imaginary.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/element/imaginary.webp",
+    "contentLength": "1038",
+    "etag": "\"6a1e6e4e-40e\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:54 GMT"
+  },
+  "elements/Lightning": {
+    "key": "elements/Lightning",
+    "kind": "elements",
+    "id": "Lightning",
+    "filename": "thunder.webp",
+    "localUrl": "/icons/elements/thunder.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/element/thunder.webp",
+    "contentLength": "872",
+    "etag": "\"6a1e6e4e-368\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:54 GMT"
+  },
+  "elements/Physical": {
+    "key": "elements/Physical",
+    "kind": "elements",
+    "id": "Physical",
+    "filename": "physical.webp",
+    "localUrl": "/icons/elements/physical.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/element/physical.webp",
+    "contentLength": "1020",
+    "etag": "\"6a1e6e4e-3fc\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:54 GMT"
+  },
+  "elements/Quantum": {
+    "key": "elements/Quantum",
+    "kind": "elements",
+    "id": "Quantum",
+    "filename": "quantum.webp",
+    "localUrl": "/icons/elements/quantum.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/element/quantum.webp",
+    "contentLength": "710",
+    "etag": "\"6a1e6e4e-2c6\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:54 GMT"
+  },
+  "elements/Wind": {
+    "key": "elements/Wind",
+    "kind": "elements",
+    "id": "Wind",
+    "filename": "wind.webp",
+    "localUrl": "/icons/elements/wind.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/element/wind.webp",
+    "contentLength": "860",
+    "etag": "\"6a1e6e4e-35c\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:54 GMT"
+  },
   "lightcones/20000": {
     "key": "lightcones/20000",
     "kind": "lightcones",
@@ -2945,6 +3022,105 @@
     "sourceUrl": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/24006.webp",
     "contentLength": "59480",
     "etag": "\"6a1e6e4f-e858\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:55 GMT"
+  },
+  "paths/Abundance": {
+    "key": "paths/Abundance",
+    "kind": "paths",
+    "id": "Abundance",
+    "filename": "priest.webp",
+    "localUrl": "/icons/paths/priest.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/pathicon/priest.webp",
+    "contentLength": "36222",
+    "etag": "\"6a1e6e4f-8d7e\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:55 GMT"
+  },
+  "paths/Destruction": {
+    "key": "paths/Destruction",
+    "kind": "paths",
+    "id": "Destruction",
+    "filename": "warrior.webp",
+    "localUrl": "/icons/paths/warrior.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/pathicon/warrior.webp",
+    "contentLength": "18440",
+    "etag": "\"6a1e6e4f-4808\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:55 GMT"
+  },
+  "paths/Elation": {
+    "key": "paths/Elation",
+    "kind": "paths",
+    "id": "Elation",
+    "filename": "elation.webp",
+    "localUrl": "/icons/paths/elation.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/pathicon/elation.webp",
+    "contentLength": "23924",
+    "etag": "\"6a1e6e4f-5d74\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:55 GMT"
+  },
+  "paths/Erudition": {
+    "key": "paths/Erudition",
+    "kind": "paths",
+    "id": "Erudition",
+    "filename": "mage.webp",
+    "localUrl": "/icons/paths/mage.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/pathicon/mage.webp",
+    "contentLength": "13366",
+    "etag": "\"6a1e6e4f-3436\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:55 GMT"
+  },
+  "paths/Harmony": {
+    "key": "paths/Harmony",
+    "kind": "paths",
+    "id": "Harmony",
+    "filename": "shaman.webp",
+    "localUrl": "/icons/paths/shaman.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/pathicon/shaman.webp",
+    "contentLength": "18932",
+    "etag": "\"6a1e6e4f-49f4\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:55 GMT"
+  },
+  "paths/Nihility": {
+    "key": "paths/Nihility",
+    "kind": "paths",
+    "id": "Nihility",
+    "filename": "warlock.webp",
+    "localUrl": "/icons/paths/warlock.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/pathicon/warlock.webp",
+    "contentLength": "21576",
+    "etag": "\"6a1e6e4f-5448\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:55 GMT"
+  },
+  "paths/Preservation": {
+    "key": "paths/Preservation",
+    "kind": "paths",
+    "id": "Preservation",
+    "filename": "knight.webp",
+    "localUrl": "/icons/paths/knight.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/pathicon/knight.webp",
+    "contentLength": "15398",
+    "etag": "\"6a1e6e4f-3c26\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:55 GMT"
+  },
+  "paths/Remembrance": {
+    "key": "paths/Remembrance",
+    "kind": "paths",
+    "id": "Remembrance",
+    "filename": "memory.webp",
+    "localUrl": "/icons/paths/memory.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/pathicon/memory.webp",
+    "contentLength": "17482",
+    "etag": "\"6a1e6e4f-444a\"",
+    "lastModified": "Tue, 02 Jun 2026 05:46:55 GMT"
+  },
+  "paths/The Hunt": {
+    "key": "paths/The Hunt",
+    "kind": "paths",
+    "id": "The Hunt",
+    "filename": "rogue.webp",
+    "localUrl": "/icons/paths/rogue.webp",
+    "sourceUrl": "https://static.nanoka.cc/assets/hsr/pathicon/rogue.webp",
+    "contentLength": "21578",
+    "etag": "\"6a1e6e4f-544a\"",
     "lastModified": "Tue, 02 Jun 2026 05:46:55 GMT"
   },
   "relicsets/101": {

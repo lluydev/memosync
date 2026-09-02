@@ -1,0 +1,37 @@
+[
+  {
+    "id": "Physical",
+    "damageType": "Physical",
+    "iconUrl": "/icons/elements/physical.webp"
+  },
+  {
+    "id": "Fire",
+    "damageType": "Fire",
+    "iconUrl": "/icons/elements/fire.webp"
+  },
+  {
+    "id": "Ice",
+    "damageType": "Ice",
+    "iconUrl": "/icons/elements/ice.webp"
+  },
+  {
+    "id": "Lightning",
+    "damageType": "Thunder",
+    "iconUrl": "/icons/elements/thunder.webp"
+  },
+  {
+    "id": "Wind",
+    "damageType": "Wind",
+    "iconUrl": "/icons/elements/wind.webp"
+  },
+  {
+    "id": "Quantum",
+    "damageType": "Quantum",
+    "iconUrl": "/icons/elements/quantum.webp"
+  },
+  {
+    "id": "Imaginary",
+    "damageType": "Imaginary",
+    "iconUrl": "/icons/elements/imaginary.webp"
+  }
+]
